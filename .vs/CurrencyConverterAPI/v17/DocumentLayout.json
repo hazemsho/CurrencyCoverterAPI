@@ -1,0 +1,427 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\CurrencyConverterAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67C9262B-4E97-4CF9-B14D-17397E45B0F0}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|d:\\projects\\currencyconverterapi\\currencyconverterapi\\services\\account\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C9262B-4E97-4CF9-B14D-17397E45B0F0}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|solutionrelative:currencyconverterapi\\services\\account\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C9262B-4E97-4CF9-B14D-17397E45B0F0}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|d:\\projects\\currencyconverterapi\\currencyconverterapi\\controllers\\convertercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C9262B-4E97-4CF9-B14D-17397E45B0F0}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|solutionrelative:currencyconverterapi\\controllers\\convertercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C9262B-4E97-4CF9-B14D-17397E45B0F0}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|d:\\projects\\currencyconverterapi\\currencyconverterapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C9262B-4E97-4CF9-B14D-17397E45B0F0}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|solutionrelative:currencyconverterapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C9262B-4E97-4CF9-B14D-17397E45B0F0}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|d:\\projects\\currencyconverterapi\\currencyconverterapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C9262B-4E97-4CF9-B14D-17397E45B0F0}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|solutionrelative:currencyconverterapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C9262B-4E97-4CF9-B14D-17397E45B0F0}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|d:\\projects\\currencyconverterapi\\currencyconverterapi\\services\\converter\\converterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C9262B-4E97-4CF9-B14D-17397E45B0F0}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|solutionrelative:currencyconverterapi\\services\\converter\\converterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C9262B-4E97-4CF9-B14D-17397E45B0F0}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|d:\\projects\\currencyconverterapi\\currencyconverterapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{67C9262B-4E97-4CF9-B14D-17397E45B0F0}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|solutionrelative:currencyconverterapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C9262B-4E97-4CF9-B14D-17397E45B0F0}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|d:\\projects\\currencyconverterapi\\currencyconverterapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{67C9262B-4E97-4CF9-B14D-17397E45B0F0}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|solutionrelative:currencyconverterapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C9262B-4E97-4CF9-B14D-17397E45B0F0}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|d:\\projects\\currencyconverterapi\\currencyconverterapi\\enums\\errorcodeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C9262B-4E97-4CF9-B14D-17397E45B0F0}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|solutionrelative:currencyconverterapi\\enums\\errorcodeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C9262B-4E97-4CF9-B14D-17397E45B0F0}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|d:\\projects\\currencyconverterapi\\currencyconverterapi\\helpers\\configurationprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C9262B-4E97-4CF9-B14D-17397E45B0F0}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|solutionrelative:currencyconverterapi\\helpers\\configurationprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C9262B-4E97-4CF9-B14D-17397E45B0F0}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|d:\\projects\\currencyconverterapi\\currencyconverterapi\\helpers\\localization\\localizationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C9262B-4E97-4CF9-B14D-17397E45B0F0}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|solutionrelative:currencyconverterapi\\helpers\\localization\\localizationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C9262B-4E97-4CF9-B14D-17397E45B0F0}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|d:\\projects\\currencyconverterapi\\currencyconverterapi\\helpers\\jwtcookietoheadermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C9262B-4E97-4CF9-B14D-17397E45B0F0}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|solutionrelative:currencyconverterapi\\helpers\\jwtcookietoheadermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C9262B-4E97-4CF9-B14D-17397E45B0F0}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|d:\\projects\\currencyconverterapi\\currencyconverterapi\\helpers\\generalhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C9262B-4E97-4CF9-B14D-17397E45B0F0}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|solutionrelative:currencyconverterapi\\helpers\\generalhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C9262B-4E97-4CF9-B14D-17397E45B0F0}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|d:\\projects\\currencyconverterapi\\currencyconverterapi\\helpers\\localization\\translationprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C9262B-4E97-4CF9-B14D-17397E45B0F0}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|solutionrelative:currencyconverterapi\\helpers\\localization\\translationprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C9262B-4E97-4CF9-B14D-17397E45B0F0}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|d:\\projects\\currencyconverterapi\\currencyconverterapi\\currencyconverterapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{67C9262B-4E97-4CF9-B14D-17397E45B0F0}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|solutionrelative:currencyconverterapi\\currencyconverterapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C9262B-4E97-4CF9-B14D-17397E45B0F0}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|d:\\projects\\currencyconverterapi\\currencyconverterapi\\helpers\\httpresponse\\responsetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C9262B-4E97-4CF9-B14D-17397E45B0F0}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|solutionrelative:currencyconverterapi\\helpers\\httpresponse\\responsetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C9262B-4E97-4CF9-B14D-17397E45B0F0}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|d:\\projects\\currencyconverterapi\\currencyconverterapi\\services\\converter\\iconverterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C9262B-4E97-4CF9-B14D-17397E45B0F0}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|solutionrelative:currencyconverterapi\\services\\converter\\iconverterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C9262B-4E97-4CF9-B14D-17397E45B0F0}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|d:\\projects\\currencyconverterapi\\currencyconverterapi\\models\\converter\\exchangeratedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C9262B-4E97-4CF9-B14D-17397E45B0F0}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|solutionrelative:currencyconverterapi\\models\\converter\\exchangeratedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C9262B-4E97-4CF9-B14D-17397E45B0F0}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|d:\\projects\\currencyconverterapi\\currencyconverterapi\\services\\account\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C9262B-4E97-4CF9-B14D-17397E45B0F0}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|solutionrelative:currencyconverterapi\\services\\account\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C9262B-4E97-4CF9-B14D-17397E45B0F0}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|d:\\projects\\currencyconverterapi\\currencyconverterapi\\helpers\\localization\\jsonstringlocalizerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C9262B-4E97-4CF9-B14D-17397E45B0F0}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|solutionrelative:currencyconverterapi\\helpers\\localization\\jsonstringlocalizerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C9262B-4E97-4CF9-B14D-17397E45B0F0}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|d:\\projects\\currencyconverterapi\\currencyconverterapi\\helpers\\localization\\jsonstringlocalizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C9262B-4E97-4CF9-B14D-17397E45B0F0}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|solutionrelative:currencyconverterapi\\helpers\\localization\\jsonstringlocalizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C9262B-4E97-4CF9-B14D-17397E45B0F0}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|d:\\projects\\currencyconverterapi\\currencyconverterapi\\resources\\en-us.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{67C9262B-4E97-4CF9-B14D-17397E45B0F0}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|solutionrelative:currencyconverterapi\\resources\\en-us.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C9262B-4E97-4CF9-B14D-17397E45B0F0}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|d:\\projects\\currencyconverterapi\\currencyconverterapi\\resources\\ar-ae.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{67C9262B-4E97-4CF9-B14D-17397E45B0F0}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|solutionrelative:currencyconverterapi\\resources\\ar-ae.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C9262B-4E97-4CF9-B14D-17397E45B0F0}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|d:\\projects\\currencyconverterapi\\currencyconverterapi\\helpers\\httpresponse\\iresponsetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C9262B-4E97-4CF9-B14D-17397E45B0F0}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|solutionrelative:currencyconverterapi\\helpers\\httpresponse\\iresponsetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C9262B-4E97-4CF9-B14D-17397E45B0F0}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|d:\\projects\\currencyconverterapi\\currencyconverterapi\\helpers\\httpresponse\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C9262B-4E97-4CF9-B14D-17397E45B0F0}|CurrencyConverterAPI\\CurrencyConverterAPI.csproj|solutionrelative:currencyconverterapi\\helpers\\httpresponse\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConfigurationProvider.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyConverterAPI\\CurrencyConverterAPI\\Helpers\\ConfigurationProvider.cs",
+              "RelativeDocumentMoniker": "CurrencyConverterAPI\\Helpers\\ConfigurationProvider.cs",
+              "ToolTip": "D:\\Projects\\CurrencyConverterAPI\\CurrencyConverterAPI\\Helpers\\ConfigurationProvider.cs",
+              "RelativeToolTip": "CurrencyConverterAPI\\Helpers\\ConfigurationProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T11:31:52.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConverterService.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyConverterAPI\\CurrencyConverterAPI\\Services\\Converter\\ConverterService.cs",
+              "RelativeDocumentMoniker": "CurrencyConverterAPI\\Services\\Converter\\ConverterService.cs",
+              "ToolTip": "D:\\Projects\\CurrencyConverterAPI\\CurrencyConverterAPI\\Services\\Converter\\ConverterService.cs",
+              "RelativeToolTip": "CurrencyConverterAPI\\Services\\Converter\\ConverterService.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAkwHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T10:31:13.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorCodeEnum.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyConverterAPI\\CurrencyConverterAPI\\Enums\\ErrorCodeEnum.cs",
+              "RelativeDocumentMoniker": "CurrencyConverterAPI\\Enums\\ErrorCodeEnum.cs",
+              "ToolTip": "D:\\Projects\\CurrencyConverterAPI\\CurrencyConverterAPI\\Enums\\ErrorCodeEnum.cs",
+              "RelativeToolTip": "CurrencyConverterAPI\\Enums\\ErrorCodeEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T09:27:48.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Projects\\CurrencyConverterAPI\\CurrencyConverterAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CurrencyConverterAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Projects\\CurrencyConverterAPI\\CurrencyConverterAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CurrencyConverterAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-12T11:28:37.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\CurrencyConverterAPI\\CurrencyConverterAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "CurrencyConverterAPI\\appsettings.json",
+              "ToolTip": "D:\\Projects\\CurrencyConverterAPI\\CurrencyConverterAPI\\appsettings.json",
+              "RelativeToolTip": "CurrencyConverterAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-12T09:22:56.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConverterController.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyConverterAPI\\CurrencyConverterAPI\\Controllers\\ConverterController.cs",
+              "RelativeDocumentMoniker": "CurrencyConverterAPI\\Controllers\\ConverterController.cs",
+              "ToolTip": "D:\\Projects\\CurrencyConverterAPI\\CurrencyConverterAPI\\Controllers\\ConverterController.cs",
+              "RelativeToolTip": "CurrencyConverterAPI\\Controllers\\ConverterController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAkwE4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T10:29:54.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyConverterAPI\\CurrencyConverterAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CurrencyConverterAPI\\Program.cs",
+              "ToolTip": "D:\\Projects\\CurrencyConverterAPI\\CurrencyConverterAPI\\Program.cs",
+              "RelativeToolTip": "CurrencyConverterAPI\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T10:00:14.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyConverterAPI\\CurrencyConverterAPI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "CurrencyConverterAPI\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Projects\\CurrencyConverterAPI\\CurrencyConverterAPI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "CurrencyConverterAPI\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA7wBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T09:24:00.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyConverterAPI\\CurrencyConverterAPI\\Services\\Account\\AccountService.cs",
+              "RelativeDocumentMoniker": "CurrencyConverterAPI\\Services\\Account\\AccountService.cs",
+              "ToolTip": "D:\\Projects\\CurrencyConverterAPI\\CurrencyConverterAPI\\Services\\Account\\AccountService.cs",
+              "RelativeToolTip": "CurrencyConverterAPI\\Services\\Account\\AccountService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAArwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T10:01:35.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JwtCookieToHeaderMiddleware.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyConverterAPI\\CurrencyConverterAPI\\Helpers\\JwtCookieToHeaderMiddleware.cs",
+              "RelativeDocumentMoniker": "CurrencyConverterAPI\\Helpers\\JwtCookieToHeaderMiddleware.cs",
+              "ToolTip": "D:\\Projects\\CurrencyConverterAPI\\CurrencyConverterAPI\\Helpers\\JwtCookieToHeaderMiddleware.cs",
+              "RelativeToolTip": "CurrencyConverterAPI\\Helpers\\JwtCookieToHeaderMiddleware.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T10:28:11.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LocalizationMiddleware.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyConverterAPI\\CurrencyConverterAPI\\Helpers\\Localization\\LocalizationMiddleware.cs",
+              "RelativeDocumentMoniker": "CurrencyConverterAPI\\Helpers\\Localization\\LocalizationMiddleware.cs",
+              "ToolTip": "D:\\Projects\\CurrencyConverterAPI\\CurrencyConverterAPI\\Helpers\\Localization\\LocalizationMiddleware.cs",
+              "RelativeToolTip": "CurrencyConverterAPI\\Helpers\\Localization\\LocalizationMiddleware.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAnwBEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T11:33:34.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GeneralHelper.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyConverterAPI\\CurrencyConverterAPI\\Helpers\\GeneralHelper.cs",
+              "RelativeDocumentMoniker": "CurrencyConverterAPI\\Helpers\\GeneralHelper.cs",
+              "ToolTip": "D:\\Projects\\CurrencyConverterAPI\\CurrencyConverterAPI\\Helpers\\GeneralHelper.cs",
+              "RelativeToolTip": "CurrencyConverterAPI\\Helpers\\GeneralHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T11:35:25.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IConverterService.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyConverterAPI\\CurrencyConverterAPI\\Services\\Converter\\IConverterService.cs",
+              "RelativeDocumentMoniker": "CurrencyConverterAPI\\Services\\Converter\\IConverterService.cs",
+              "ToolTip": "D:\\Projects\\CurrencyConverterAPI\\CurrencyConverterAPI\\Services\\Converter\\IConverterService.cs",
+              "RelativeToolTip": "CurrencyConverterAPI\\Services\\Converter\\IConverterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T10:31:04.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TranslationProvider.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyConverterAPI\\CurrencyConverterAPI\\Helpers\\Localization\\TranslationProvider.cs",
+              "RelativeDocumentMoniker": "CurrencyConverterAPI\\Helpers\\Localization\\TranslationProvider.cs",
+              "ToolTip": "D:\\Projects\\CurrencyConverterAPI\\CurrencyConverterAPI\\Helpers\\Localization\\TranslationProvider.cs",
+              "RelativeToolTip": "CurrencyConverterAPI\\Helpers\\Localization\\TranslationProvider.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T09:58:28.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CurrencyConverterAPI",
+              "DocumentMoniker": "D:\\Projects\\CurrencyConverterAPI\\CurrencyConverterAPI\\CurrencyConverterAPI.csproj",
+              "RelativeDocumentMoniker": "CurrencyConverterAPI\\CurrencyConverterAPI.csproj",
+              "ToolTip": "D:\\Projects\\CurrencyConverterAPI\\CurrencyConverterAPI\\CurrencyConverterAPI.csproj",
+              "RelativeToolTip": "CurrencyConverterAPI\\CurrencyConverterAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-12T11:29:10.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ResponseType.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyConverterAPI\\CurrencyConverterAPI\\Helpers\\HttpResponse\\ResponseType.cs",
+              "RelativeDocumentMoniker": "CurrencyConverterAPI\\Helpers\\HttpResponse\\ResponseType.cs",
+              "ToolTip": "D:\\Projects\\CurrencyConverterAPI\\CurrencyConverterAPI\\Helpers\\HttpResponse\\ResponseType.cs",
+              "RelativeToolTip": "CurrencyConverterAPI\\Helpers\\HttpResponse\\ResponseType.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAgwIQAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T09:26:29.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ExchangeRateDto.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyConverterAPI\\CurrencyConverterAPI\\Models\\Converter\\ExchangeRateDto.cs",
+              "RelativeDocumentMoniker": "CurrencyConverterAPI\\Models\\Converter\\ExchangeRateDto.cs",
+              "ToolTip": "D:\\Projects\\CurrencyConverterAPI\\CurrencyConverterAPI\\Models\\Converter\\ExchangeRateDto.cs",
+              "RelativeToolTip": "CurrencyConverterAPI\\Models\\Converter\\ExchangeRateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T11:16:47.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyConverterAPI\\CurrencyConverterAPI\\Services\\Account\\IAccountService.cs",
+              "RelativeDocumentMoniker": "CurrencyConverterAPI\\Services\\Account\\IAccountService.cs",
+              "ToolTip": "D:\\Projects\\CurrencyConverterAPI\\CurrencyConverterAPI\\Services\\Account\\IAccountService.cs",
+              "RelativeToolTip": "CurrencyConverterAPI\\Services\\Account\\IAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T10:01:42.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "JsonStringLocalizerFactory.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyConverterAPI\\CurrencyConverterAPI\\Helpers\\Localization\\JsonStringLocalizerFactory.cs",
+              "RelativeDocumentMoniker": "CurrencyConverterAPI\\Helpers\\Localization\\JsonStringLocalizerFactory.cs",
+              "ToolTip": "D:\\Projects\\CurrencyConverterAPI\\CurrencyConverterAPI\\Helpers\\Localization\\JsonStringLocalizerFactory.cs",
+              "RelativeToolTip": "CurrencyConverterAPI\\Helpers\\Localization\\JsonStringLocalizerFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T09:58:06.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "en-US.json",
+              "DocumentMoniker": "D:\\Projects\\CurrencyConverterAPI\\CurrencyConverterAPI\\Resources\\en-US.json",
+              "RelativeDocumentMoniker": "CurrencyConverterAPI\\Resources\\en-US.json",
+              "ToolTip": "D:\\Projects\\CurrencyConverterAPI\\CurrencyConverterAPI\\Resources\\en-US.json",
+              "RelativeToolTip": "CurrencyConverterAPI\\Resources\\en-US.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-12T09:57:40.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ar-AE.json",
+              "DocumentMoniker": "D:\\Projects\\CurrencyConverterAPI\\CurrencyConverterAPI\\Resources\\ar-AE.json",
+              "RelativeDocumentMoniker": "CurrencyConverterAPI\\Resources\\ar-AE.json",
+              "ToolTip": "D:\\Projects\\CurrencyConverterAPI\\CurrencyConverterAPI\\Resources\\ar-AE.json",
+              "RelativeToolTip": "CurrencyConverterAPI\\Resources\\ar-AE.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-12T09:57:13.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "JsonStringLocalizer.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyConverterAPI\\CurrencyConverterAPI\\Helpers\\Localization\\JsonStringLocalizer.cs",
+              "RelativeDocumentMoniker": "CurrencyConverterAPI\\Helpers\\Localization\\JsonStringLocalizer.cs",
+              "ToolTip": "D:\\Projects\\CurrencyConverterAPI\\CurrencyConverterAPI\\Helpers\\Localization\\JsonStringLocalizer.cs",
+              "RelativeToolTip": "CurrencyConverterAPI\\Helpers\\Localization\\JsonStringLocalizer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T09:30:34.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Response.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyConverterAPI\\CurrencyConverterAPI\\Helpers\\HttpResponse\\Response.cs",
+              "RelativeDocumentMoniker": "CurrencyConverterAPI\\Helpers\\HttpResponse\\Response.cs",
+              "ToolTip": "D:\\Projects\\CurrencyConverterAPI\\CurrencyConverterAPI\\Helpers\\HttpResponse\\Response.cs",
+              "RelativeToolTip": "CurrencyConverterAPI\\Helpers\\HttpResponse\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T09:26:25.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IResponseType.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyConverterAPI\\CurrencyConverterAPI\\Helpers\\HttpResponse\\IResponseType.cs",
+              "RelativeDocumentMoniker": "CurrencyConverterAPI\\Helpers\\HttpResponse\\IResponseType.cs",
+              "ToolTip": "D:\\Projects\\CurrencyConverterAPI\\CurrencyConverterAPI\\Helpers\\HttpResponse\\IResponseType.cs",
+              "RelativeToolTip": "CurrencyConverterAPI\\Helpers\\HttpResponse\\IResponseType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T09:26:11.143Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

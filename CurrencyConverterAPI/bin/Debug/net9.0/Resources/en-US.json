@@ -1,0 +1,9 @@
+{
+  "MissingUsername": "Missing username",
+  "MissingPassword": "Missing password",
+  "UserNotFound": "User account not found",
+  "UserNotAllowedToLogin": "User is not allowed to login",
+  "UserHasNoRoles": "There is no role assigned to this user",
+  "InvalidUsernameOrPassword": "Invalid Username Or/And Password",
+  "Exception": "An error happened in the API, please contact system administrator"
+}

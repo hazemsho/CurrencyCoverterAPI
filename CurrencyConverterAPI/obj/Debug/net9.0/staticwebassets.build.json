@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "pF7YsKd9rYsXSNcTyxEJG6rdgWvsE01Dl4YibqvOgvA=",
+  "Source": "CurrencyConverterAPI",
+  "BasePath": "_content/CurrencyConverterAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
